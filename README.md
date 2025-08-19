@@ -13,7 +13,7 @@ This project implements a complete hotel management database system, covering ev
 - **Enabled data-driven reporting** for occupancy, revenue, and staff performance
 - **Implemented role-based access control** for different staff types
 
-## 🏗System Architecture
+## System Architecture
 
 ### Database Design Philosophy
 - **Normalization**: Systematically applied 1NF through BCNF to eliminate redundancy
